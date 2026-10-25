@@ -22,7 +22,7 @@ I work with data end to end — from writing and tuning T-SQL procedures in Micr
 ### 🌫️ [Air-Quality-Index](https://github.com/PailaDeepak-14/Air-Quality-Index)
 Predicts air quality levels from sensor readings (CO, NOx, NO2, O3, temperature, humidity).
 - Compared **6 regression models** — Linear Regression, Lasso, Random Forest, SVR, Gradient Boosting and Decision Tree — evaluated with R² and cross-validation
-- **Decision Tree won with a test R² of 0.9999**
+- **Decision Tree was selected as the final model** and shipped in the Flask app
 - Shipped as a working **Flask web app** with Home, Predict and About pages
 
 ### 🧠 [Emotion-Detection](https://github.com/PailaDeepak-14/Emotion-Detection)
@@ -39,13 +39,6 @@ Multimodal emotion detection combining three signal types — **face, speech and
 - **Data Science & Machine Learning Intern** — ExcelR, May–Jul 2025
 
 **Education:** B.Tech, Computer Science & Engineering (AI), 2026 · Hyderabad, India
-
----
-
-## 📊 GitHub Stats
-
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=PailaDeepak-14&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PailaDeepak-14&layout=compact&theme=default)
 
 ---
 
